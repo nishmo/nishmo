@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://nishmo.github.io/" target="blank">
 Nishant</a></h1>
-<h3 align="center">Head of Product Engineering Team for Vialto Partners Business Travel LoS from London, UK &#127468; &#127463;</h3>
+<h3 align="center">Product Engineering Head for Vialto Partners Business Travel LoS from London &#127468; &#127463;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishmo&label=Profile%20views&color=0e75b6&style=flat" alt="nishmo" /> </p>
 
