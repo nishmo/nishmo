@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://nishmo.github.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/nishmo/nishmo" target="blank">
 Nishant</a></h1>
 <h3 align="center">Product Engineering Head for Vialto Partners Business Travel LoS from London &#127468; &#127463;</h3>
 
